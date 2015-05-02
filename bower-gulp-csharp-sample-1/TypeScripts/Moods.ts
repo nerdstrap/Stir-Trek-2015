@@ -1,0 +1,1 @@
+﻿enum Moods { Sleepy, Hungry, Angry, Playful, Content, Dismissive, Aloof, Capricious, Evil, Happy }
